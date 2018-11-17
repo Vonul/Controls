@@ -1,0 +1,1 @@
+The java files in this folder are used to construct a Graph object given an adjacency list. Various construction and analysis methods are provided. The main focus of this assignment was to verify the existance of an Eulerian Tour on the graph and then to output a valid tour.
