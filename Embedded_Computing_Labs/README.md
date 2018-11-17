@@ -1,1 +1,1 @@
-The files in this folder represent an evolving series of labs from a course in Embedded Computing in Mechanical Systems. The main files' numbering is one behind the lab report number (main -> lab 1, main-1 -> lab2, etc)
+The files in this folder represent an evolving series of labs from an undergraduate course in Embedded Computing in Mechanical Systems. The main files' numbering is one behind the lab report number (main -> lab 1, main-1 -> lab2, etc)
